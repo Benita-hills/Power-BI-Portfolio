@@ -1,2 +1,2 @@
-# Power-BI-Portfolio
-This is a Portfolio Tutorial
+# HR ANALYTICS PROJECT
+This is a Portfolio Project
